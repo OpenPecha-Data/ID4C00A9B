@@ -1,0 +1,95 @@
+id: a417cd57962440b3b2d5d52159ee45ae
+annotation_type: OCRConfidence
+revision: '00001'
+annotations:
+  90803cd8eb804841885a70ede0cb6ac2:
+    span:
+      start: 89
+      end: 90
+    confidence: 0.78905296
+  ab5ef03dfb48407d848d5bff8ecd67ef:
+    span:
+      start: 261
+      end: 263
+    confidence: 0.72370994
+  00c41748650d4193af2a5d07e4e5c49b:
+    span:
+      start: 306
+      end: 307
+    confidence: 0.4791261
+  c1ad53ffcdb84809b5f9b191aa699043:
+    span:
+      start: 453
+      end: 455
+    confidence: 0.7027008
+  ea3dbdea36db43f6bd0e929293355e51:
+    span:
+      start: 469
+      end: 471
+    confidence: 0.68312025
+  56946112f04c4ad09d14f6e319f3efb1:
+    span:
+      start: 639
+      end: 640
+    confidence: 0.37493443
+  63574125eb694381b3a23365f6e1b776:
+    span:
+      start: 660
+      end: 661
+    confidence: 0.67404395
+  18cad960c7374652acc7affb8086a0ea:
+    span:
+      start: 677
+      end: 678
+    confidence: 0.7058843
+  97c2cddeb86d46208c296ce550c91a82:
+    span:
+      start: 883
+      end: 884
+    confidence: 0.74544585
+  a34806aaba4f4e7c9174b19fddf65869:
+    span:
+      start: 1528
+      end: 1531
+    confidence: 0.7815533
+  a16407b42e734bcdba9eebd10eaf8d16:
+    span:
+      start: 17387
+      end: 17392
+    confidence: 0.7083017340000001
+  3d695d3e60854fb8a6691019049bbe9d:
+    span:
+      start: 32002
+      end: 32003
+    confidence: 0.6282787
+  b3cc7718b03d41028d78eed46cd78b27:
+    span:
+      start: 32100
+      end: 32101
+    confidence: 0.48253617
+  50db1371d548448886c1c17cc73216c1:
+    span:
+      start: 77612
+      end: 77615
+    confidence: 0.7493378
+  b2d2f063fd2a421cb0d7e35d1ddc5d0a:
+    span:
+      start: 109068
+      end: 109073
+    confidence: 0.7215687
+  50641f532cb84e50b60991107f8162f6:
+    span:
+      start: 136456
+      end: 136458
+    confidence: 0.7175651
+  048de7e08b8f4cbb93486b6c30a2713c:
+    span:
+      start: 142705
+      end: 142708
+    confidence: 0.79164183
+  dfca64f03d984e64b03f9048ddfef629:
+    span:
+      start: 150666
+      end: 150671
+    confidence: 0.6986873
+confidence_threshold: 0.8
